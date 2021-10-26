@@ -22,11 +22,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/angry_pie_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angry_pie_4" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/tamjid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamjid10" height="30" width="40" /></a>
-<a href="https://twitter.com/angry_pie_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angry_pie_4" height="30" width="40" /></a>
+
 <a href="https://dev.to/tamjidahmed10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tamjidahmed10" height="30" width="40" /></a>
 <a href="https://instagram.com/tamjid_ahmed_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamjid_ahmed_10" height="30" width="40" /></a>
 <a href="https://codesandbox.com/tamjidahammad10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="tamjidahammad10" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,7 +36,7 @@
 <h3> Statistics </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamjidahmed10" alt="tamjidahmed10" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjidahmed10&show_icons=true&locale=en&layout=compact" alt="tamjidahmed10" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjidahmed10&show_icons=true&locale=en&layout=compact" alt="tamjidahmed10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamjidahmed10&show_icons=true&locale=en" alt="tamjidahmed10" /></p>
 

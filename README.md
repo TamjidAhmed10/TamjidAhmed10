@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamjid Ahmed</h1>
-<h3 align="center">A passionate full stack react developer from Bangladesh.</h3>
-
+<img align="center" src="https://raw.githubusercontent.com/TamjidAhmed10/nextjstailwindsnippetcollection/c243401f2236e0a2516497279109758295575c4d/1.png" alt="tamjid">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamjidahmed10&label=Profile%20views&color=0e75b6&style=flat" alt="tamjidahmed10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/angry_pie_4" target="blank"><img src="https://img.shields.io/twitter/follow/angry_pie_4?logo=twitter&style=for-the-badge" alt="angry_pie_4" /></a> </p>
@@ -31,11 +30,11 @@
 <h3> Statistics </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamjidahmed10" alt="tamjidahmed10" /></a> </p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjidahmed10&show_icons=true&locale=en&layout=compact" alt="tamjidahmed10" /></p>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjidahmed10&show_icons=true&locale=en&layout=compact" alt="tamjidahmed10" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamjidahmed10&show_icons=true&locale=en" alt="tamjidahmed10" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamjidahmed10&show_icons=true&locale=en" alt="tamjidahmed10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamjidahmed10&" alt="tamjidahmed10" /></p>
 
-<h3 align="right">Support:</h3>
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tamjid10"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tamjid10" /></a></p><br><br>

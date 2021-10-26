@@ -31,11 +31,11 @@
 <h3> Statistics </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamjidahmed10" alt="tamjidahmed10" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjidahmed10&show_icons=true&locale=en&layout=compact" alt="tamjidahmed10" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjidahmed10&show_icons=true&locale=en&layout=compact" alt="tamjidahmed10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamjidahmed10&show_icons=true&locale=en" alt="tamjidahmed10" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamjidahmed10&show_icons=true&locale=en" alt="tamjidahmed10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamjidahmed10&" alt="tamjidahmed10" /></p>
 
-<h3 align="left">Support:</h3>
+<h3 align="right">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tamjid10"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tamjid10" /></a></p><br><br>

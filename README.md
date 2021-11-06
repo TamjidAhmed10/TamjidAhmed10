@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Portfolio Project](https://github.com/TamjidAhmed10/portfolioxd)
 
-- 👨‍💻 All of my projects are available at [working on it](working on it)
+- 👨‍💻 All of my projects are available at [Portfolio By Tamjid](https://portfoliobytamjid.vercel.app/)
 
 - 💬 Ask me about **React, NextJs , Tailwind , Firebase , Typescript**
 

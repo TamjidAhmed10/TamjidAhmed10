@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/angry_pie_4" target="blank"><img src="https://img.shields.io/twitter/follow/angry_pie_4?logo=twitter&style=for-the-badge" alt="angry_pie_4" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Project](https://github.com/TamjidAhmed10/portfolioxd)
+- 🔭 I’m currently working on [Ecommerce App](https://github.com/TamjidAhmed10/ecommerce)
 
 - 👨‍💻 All of my projects are available at [Portfolio By Tamjid](https://portfoliobytamjid.vercel.app/)
 

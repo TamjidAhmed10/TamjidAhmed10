@@ -2,7 +2,7 @@
 <img align="center" src="https://raw.githubusercontent.com/TamjidAhmed10/nextjstailwindsnippetcollection/main/Tamjid%20Ahmed.png" alt="tamjid">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamjidahmed10&label=Profile%20views&color=0e75b6&style=flat" alt="tamjidahmed10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/angry_pie_4" target="blank"><img src="https://img.shields.io/twitter/follow/angry_pie_4?logo=twitter&style=for-the-badge" alt="angry_pie_4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/angry_pie_4" target="blank"><img src="https://img.shields.io/twitter/follow/angry_pie_4?logo=twitter&style=for-the-badge" alt="angry_pie_4" /></a>  </p>
 
 - 🔭 I’m currently working on [Ecommerce App](https://github.com/TamjidAhmed10/ecommerce2)
 

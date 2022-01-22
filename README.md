@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjidahmed10&show_icons=true&locale=en&layout=compact" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api?username=tamjidahmed10&show_icons=true&locale=en" width="50%" /> 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  <img src="(https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" width="50%" />
 </p>
 
 

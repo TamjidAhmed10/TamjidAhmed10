@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tamjidahammad10@gmail.com**
 
-- ⚡ Fun fact **I think I am in love.**
+
 
 
 
@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjidahmed10&show_icons=true&locale=en&layout=compact" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api?username=tamjidahmed10&show_icons=true&locale=en" width="50%" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://github-readme-streak-stats.herokuapp.com?user=TamjidAhmed10&date_format=M%20j%5B%2C%20Y%5D)" alt="tamjidahmed10" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TamjidAhmed10&date_format=M%20j%5B%2C%20Y%5D" alt="tamjidahmed10" width="50%" />
 </p>
 
 

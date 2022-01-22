@@ -31,8 +31,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjidahmed10&show_icons=true&locale=en&layout=compact" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api?username=tamjidahmed10&show_icons=true&locale=en" width="50%" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://github-readme-streak-stats.herokuapp.com?user=TamjidAhmed10&date_format=M%20j%5B%2C%20Y%5D)" alt="tamjidahmed10" />
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TamjidAhmed10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
 ### Support:

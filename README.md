@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio By Tamjid](https://portfoliobytamjid.vercel.app/)
 
-- 💬 Ask me about **React, NextJs , Tailwind  , Typescript , Django , Python**
+- 💬 Ask me about **React, NextJs , Tailwind  , Typescript , Python**
 
 - 📫 How to reach me **tamjidahammad1996@gmail.com**
 
